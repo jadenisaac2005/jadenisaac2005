@@ -1,6 +1,9 @@
 Hi 👋 My name is Jaden
 ======================
 
+I am a student
+--------------
+
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [My Website](https://jadenisaac2005.github.io/)
 * ✉️  You can contact me at [jadenisaac10@gmail.com](mailto:jadenisaac10@gmail.com)
