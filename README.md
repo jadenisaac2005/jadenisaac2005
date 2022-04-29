@@ -1,8 +1,8 @@
 Hi 👋 My name is Jaden Isaac
 ============================
 
-I am a student
---------------
+Student
+-------
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [My Website](https://jadenisaac2005.github.io/)
