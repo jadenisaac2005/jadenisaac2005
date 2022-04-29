@@ -2,7 +2,7 @@ Hi 👋 My name is Jaden
 ======================
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Website](http://https://jadenisaac2005.github.io/)
+* 🖥️  See my portfolio at [My Website](https://jadenisaac2005.github.io/)
 * ✉️  You can contact me at [jadenisaac10@gmail.com](mailto:jadenisaac10@gmail.com)
 * 🧠  I'm learning Python
 
