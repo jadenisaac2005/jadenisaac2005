@@ -15,7 +15,10 @@ Javascript, HTML, CSS, C#, Python
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 ## 🧠 I'm currently learning...
-BTech(AI&ML)
+- Web Development
+- Frontend Development
+- BTech(AI&ML)
+
 
 ## 📫 How to reach me
 You can reach out to me at [jadenisaacdev@gmail.com](mailto:jadenisaacdev@gmail.com)
