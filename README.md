@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full student at Amity University Banglore
+I'm a student at Amity University Banglore
 
 ## 🛠 Skills
 Javascript, HTML, CSS, C#, Python
