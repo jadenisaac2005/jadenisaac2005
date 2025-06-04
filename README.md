@@ -6,7 +6,7 @@
 I'm a student at Amity University Banglore
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C#, Python
+Javascript, HTML, CSS, C#, C, C++, Python
 
 
 ## 🔗 Links
