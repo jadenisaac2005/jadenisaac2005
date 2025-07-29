@@ -1,24 +1,58 @@
+# 👋 Hi, I'm Jaden Isaac
 
-# Hi, I'm Jaden! 👋
+I'm a BTech student (AI & ML) passionate about building intelligent systems and beautiful, scalable web applications. I enjoy working on projects that blend engineering with creativity, especially in AI, web dev, and data science.
 
+---
 
-## 🚀 About Me
-I'm a student at Amity University Banglore
+## 🧠 AI/ML & Data Projects
 
-## 🛠 Skills
-Javascript, HTML, CSS, C#, C, C++, Python
+- 🔬 [**cpp-neural-network**](https://github.com/jadenisaac2005/cpp-neural-network)  
+  A basic feedforward neural network written from scratch in **C++**, with custom activation functions, backpropagation, and dynamic architecture. Great for understanding neural net internals without libraries.
 
+- 👥 [**Customer Segmentation**](https://github.com/jadenisaac2005/Customer-Segmentation-project)  
+  Clustering customers using **KMeans** on shopping data to identify behavior-based segments. Includes **EDA**, **visualizations**, and **model evaluation**.
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-isaac)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+- 🎬 [**Movie Recommendation System**](https://github.com/jadenisaac2005/Movie-Recommendations-System)  
+  A hybrid recommendation engine using **content-based filtering** and **collaborative filtering** built in **Python** with **Pandas**, **Sklearn**, and **Cosine Similarity**.
 
-## 🧠 I'm currently learning...
-- Web Development
-- Frontend Development
-- BTech(AI&ML)
+- 📝 [**Sentiment Analysis of Movie Reviews**](https://github.com/jadenisaac2005/Sentiment-Analysis-of-Movie-Reviews)  
+  Natural Language Processing project using **TF-IDF**, **Logistic Regression**, and **Naive Bayes** to classify IMDb reviews as positive or negative.
 
+---
 
-## 📫 How to reach me
-You can reach out to me at [jadenisaacdev@gmail.com](mailto:jadenisaacdev@gmail.com)
+## 🌐 Web Dev Projects
+
+- 🏦 [**Horizon**](https://github.com/jadenisaac2005/Horizon)  
+  A full-stack modern banking platform built with:
+  - **Next.js 14**, **React**, **TypeScript**
+  - **Appwrite** as backend (auth, DB, storage)
+  - **shadcn/ui** for clean component design
+  - **Deployed on Vercel**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, C++, SQL  
+**Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, shadcn/ui, Sklearn, Pandas, NumPy  
+**Tools:** Git, GitHub, Vercel, Appwrite, Jupyter Notebooks  
+
+---
+
+## 🎯 Current Goals
+
+- Sharpen ML fundamentals through hands-on projects  
+- Build fast, clean full-stack apps using cutting-edge tools  
+- Contribute to open-source & grow a portfolio that blends AI + web  
+
+---
+
+## 🔗 Let's Connect
+
+- **GitHub**: [@jadenisaac2005](https://github.com/jadenisaac2005)  
+- **LinkedIn**: [linkedin.com/in/jaden-isaac](https://linkedin.com/in/jaden-isaac)
+
+---
+
+> If you liked any of my work or found it useful, feel free to star the repo or connect with me!
+
