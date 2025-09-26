@@ -1,58 +1,69 @@
-# 👋 Hi, I'm Jaden Isaac
+[![](https://img.shields.io/badge/-Jaden%20Isaac-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadenisaac2005)
 
-I'm a BTech student (AI & ML) passionate about building intelligent systems and beautiful, scalable web applications. I enjoy working on projects that blend engineering with creativity, especially in AI, web dev, and data science.
+# Jaden Isaac — AI & Full‑Stack Maker
 
----
-
-## 🧠 AI/ML & Data Projects
-
-- 🔬 [**cpp-neural-network**](https://github.com/jadenisaac2005/cpp-neural-network)  
-  A basic feedforward neural network written from scratch in **C++**, with custom activation functions, backpropagation, and dynamic architecture. Great for understanding neural net internals without libraries.
-
-- 👥 [**Customer Segmentation**](https://github.com/jadenisaac2005/Customer-Segmentation-project)  
-  Clustering customers using **KMeans** on shopping data to identify behavior-based segments. Includes **EDA**, **visualizations**, and **model evaluation**.
-
-- 🎬 [**Movie Recommendation System**](https://github.com/jadenisaac2005/Movie-Recommendations-System)  
-  A hybrid recommendation engine using **content-based filtering** and **collaborative filtering** built in **Python** with **Pandas**, **Sklearn**, and **Cosine Similarity**.
-
-- 📝 [**Sentiment Analysis of Movie Reviews**](https://github.com/jadenisaac2005/Sentiment-Analysis-of-Movie-Reviews)  
-  Natural Language Processing project using **TF-IDF**, **Logistic Regression**, and **Naive Bayes** to classify IMDb reviews as positive or negative.
+A BTech student (AI & ML) who builds interactive web apps and practical machine learning projects. I like clean UX, readable code, and small experiments that teach big lessons.
 
 ---
 
-## 🌐 Web Dev Projects
+<!-- Badges -->
+[![GitHub stars](https://img.shields.io/github/stars/jadenisaac2005?style=flat-square)](https://github.com/jadenisaac2005?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/jadenisaac2005?style=flat-square)](https://github.com/jadenisaac2005)
+[![Top Language](https://img.shields.io/github/languages/top/jadenisaac2005?style=flat-square)](https://github.com/jadenisaac2005)
 
-- 🏦 [**Horizon**](https://github.com/jadenisaac2005/Horizon)  
-  A full-stack modern banking platform built with:
-  - **Next.js 14**, **React**, **TypeScript**
-  - **Appwrite** as backend (auth, DB, storage)
-  - **shadcn/ui** for clean component design
-  - **Deployed on Vercel**
+## Table of contents
 
----
-
-## 🧰 Tech Stack
-
-**Languages:** Python, JavaScript, TypeScript, C++, SQL  
-**Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, shadcn/ui, Sklearn, Pandas, NumPy  
-**Tools:** Git, GitHub, Vercel, Appwrite, Jupyter Notebooks  
+- [Featured Projects](#featured-projects)
+- [Tech & Tools](#tech--tools)
+- [What I'm Working On](#what-im-working-on)
+- [Get in Touch](#get-in-touch)
+- [License](#license)
 
 ---
 
-## 🎯 Current Goals
+## Featured Projects
 
-- Sharpen ML fundamentals through hands-on projects  
-- Build fast, clean full-stack apps using cutting-edge tools  
-- Contribute to open-source & grow a portfolio that blends AI + web  
+- 🔬 cpp-neural-network — A minimal feedforward neural network in C++ that demonstrates backpropagation, custom activations, and dynamic layer sizing. A great learning resource. https://github.com/jadenisaac2005/cpp-neural-network
+
+- 👥 Customer Segmentation — KMeans clustering on shopping data with EDA, visualizations, and evaluation. https://github.com/jadenisaac2005/Customer-Segmentation-project
+
+- 🎬 Movie Recommendation System — Hybrid recommender (content + collaborative) using Python, Pandas, Sklearn, and cosine similarity. https://github.com/jadenisaac2005/Movie-Recommendations-System
+
+- 📝 Sentiment Analysis of Movie Reviews — NLP pipeline using TF‑IDF, Logistic Regression and Naive Bayes to classify IMDb reviews. https://github.com/jadenisaac2005/Sentiment-Analysis-of-Movie-Reviews
+
+- 🏦 Horizon — Full-stack banking platform built with Next.js (TypeScript), Appwrite backend, and shadcn/ui. Deployed on Vercel. https://github.com/jadenisaac2005/Horizon
 
 ---
 
-## 🔗 Let's Connect
+## Tech & Tools
 
-- **GitHub**: [@jadenisaac2005](https://github.com/jadenisaac2005)  
-- **LinkedIn**: [linkedin.com/in/jaden-isaac](https://linkedin.com/in/jaden-isaac)
+- Languages: Python, JavaScript, TypeScript, C++, SQL
+- Frameworks & Libraries: React, Next.js, Tailwind CSS, shadcn/ui, Scikit‑learn, Pandas, NumPy
+- Tools & Platforms: Git, GitHub, Vercel, Appwrite, Jupyter Notebooks
 
 ---
 
-> If you liked any of my work or found it useful, feel free to star the repo or connect with me!
+## What I'm Working On
 
+- Improving model interpretability techniques and small production ML deployments.
+- Building more full‑stack projects with Next.js + TypeScript and clean component systems.
+
+---
+
+## Get in Touch
+
+- GitHub: [@jadenisaac2005](https://github.com/jadenisaac2005)
+- LinkedIn: [linkedin.com/in/jaden-isaac](https://linkedin.com/in/jaden-isaac)
+- Email: (add your email here)
+
+If you'd like to collaborate or want help building a project, open a GitHub issue or reach out on LinkedIn.
+
+---
+
+## License
+
+This repository is available under the MIT License. Feel free to reuse any parts of the README.
+
+---
+
+_Made with ❤️ and a bit of curiosity._
