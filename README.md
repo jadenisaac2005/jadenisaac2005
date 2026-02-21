@@ -43,4 +43,4 @@ A TypeScript-based full-stack application built with Next.js and Appwrite, focus
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/jaden-isaac  
-- Email: your_email_here  
+- Email: jadenisaacdev@gmail.com  
