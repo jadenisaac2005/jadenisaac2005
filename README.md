@@ -1,69 +1,46 @@
-[![](https://img.shields.io/badge/-Jaden%20Isaac-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadenisaac2005)
+# Jaden Isaac  
+AI Systems Builder | ML + Backend Engineering  
 
-# Jaden Isaac — AI & Full‑Stack Maker
+I’m a BTech (AI & ML) student focused on building AI systems with strong engineering foundations.
 
-A BTech student (AI & ML) who builds interactive web apps and practical machine learning projects. I like clean UX, readable code, and small experiments that teach big lessons.
+My work centers on:
+- Implementing ML models from first principles  
+- Designing clean backend architectures  
+- Connecting machine learning with real-world deployment  
 
----
 
-<!-- Badges -->
-[![GitHub stars](https://img.shields.io/github/stars/jadenisaac2005?style=flat-square)](https://github.com/jadenisaac2005?tab=stars)
-[![GitHub followers](https://img.shields.io/github/followers/jadenisaac2005?style=flat-square)](https://github.com/jadenisaac2005)
-[![Top Language](https://img.shields.io/github/languages/top/jadenisaac2005?style=flat-square)](https://github.com/jadenisaac2005)
+## 🚀 Flagship Projects
 
-## Table of contents
+### Neural Network in C++
+A modular feedforward neural network implemented from scratch in C++, featuring backpropagation, custom activation functions, and dynamic layer configuration. Built to understand optimization and learning mechanics at the systems level.  
+→ https://github.com/jadenisaac2005/cpp-neural-network  
 
-- [Featured Projects](#featured-projects)
-- [Tech & Tools](#tech--tools)
-- [What I'm Working On](#what-im-working-on)
-- [Get in Touch](#get-in-touch)
-- [License](#license)
+### Hybrid Movie Recommendation System
+A recommendation engine combining content-based and collaborative filtering. Includes similarity metrics, preprocessing pipelines, and evaluation logic using Python and Scikit-learn.  
+→ https://github.com/jadenisaac2005/Movie-Recommendations-System  
 
----
+### Horizon — Full-Stack Banking Platform
+A TypeScript-based full-stack application built with Next.js and Appwrite, focusing on clean architecture, authentication flows, and component-driven design.  
+→ https://github.com/jadenisaac2005/Horizon  
 
-## Featured Projects
 
-- 🔬 cpp-neural-network — A minimal feedforward neural network in C++ that demonstrates backpropagation, custom activations, and dynamic layer sizing. A great learning resource. https://github.com/jadenisaac2005/cpp-neural-network
+## Core Competencies
 
-- 👥 Customer Segmentation — KMeans clustering on shopping data with EDA, visualizations, and evaluation. https://github.com/jadenisaac2005/Customer-Segmentation-project
+- Machine Learning fundamentals (optimization, backpropagation, evaluation metrics)  
+- From-scratch implementations in C++  
+- Backend system design and API architecture  
+- Data preprocessing and pipeline construction  
+- Clean code practices and modular system design  
 
-- 🎬 Movie Recommendation System — Hybrid recommender (content + collaborative) using Python, Pandas, Sklearn, and cosine similarity. https://github.com/jadenisaac2005/Movie-Recommendations-System
 
-- 📝 Sentiment Analysis of Movie Reviews — NLP pipeline using TF‑IDF, Logistic Regression and Naive Bayes to classify IMDb reviews. https://github.com/jadenisaac2005/Sentiment-Analysis-of-Movie-Reviews
+## Currently Exploring
 
-- 🏦 Horizon — Full-stack banking platform built with Next.js (TypeScript), Appwrite backend, and shadcn/ui. Deployed on Vercel. https://github.com/jadenisaac2005/Horizon
+- Extending my neural network implementation with optimizers and benchmarking  
+- Designing a quantitative backtesting engine for systematic strategies  
+- Improving deployment workflows for small ML systems  
 
----
 
-## Tech & Tools
+## Connect
 
-- Languages: Python, JavaScript, TypeScript, C++, SQL
-- Frameworks & Libraries: React, Next.js, Tailwind CSS, shadcn/ui, Scikit‑learn, Pandas, NumPy
-- Tools & Platforms: Git, GitHub, Vercel, Appwrite, Jupyter Notebooks
-
----
-
-## What I'm Working On
-
-- Improving model interpretability techniques and small production ML deployments.
-- Building more full‑stack projects with Next.js + TypeScript and clean component systems.
-
----
-
-## Get in Touch
-
-- GitHub: [@jadenisaac2005](https://github.com/jadenisaac2005)
-- LinkedIn: [linkedin.com/in/jaden-isaac](https://linkedin.com/in/jaden-isaac)
-- Email: (add your email here)
-
-If you'd like to collaborate or want help building a project, open a GitHub issue or reach out on LinkedIn.
-
----
-
-## License
-
-This repository is available under the MIT License. Feel free to reuse any parts of the README.
-
----
-
-_Made with ❤️ and a bit of curiosity._
+- LinkedIn: https://linkedin.com/in/jaden-isaac  
+- Email: your_email_here  
