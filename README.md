@@ -12,7 +12,7 @@ My work centers on:
 ## 🚀 Flagship Projects
 
 ### Adaptive Revision Engine (In Progress)
-A personalized learning system that adjusts revision schedules and question difficulty based on user performance and mastery tracking. Designed with modular scoring logic and adaptive progression rules.
+A personalized learning system that adjusts revision schedules and question difficulty based on user performance and mastery tracking. Designed with modular scoring logic and adaptive progression rules.  
 → https://github.com/jadenisaac2005/adaptive-revision-engine
 
 ### Neural Network in C++
