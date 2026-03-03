@@ -27,6 +27,7 @@ A TypeScript-based full-stack application built with Next.js and Appwrite, focus
 - Designing a quantitative backtesting engine for systematic strategies
 - Improving deployment workflows for lightweight ML systems
 
+
 ## 🤝 Connect
 - LinkedIn: [linkedin.com/in/jaden-isaac](https://linkedin.com/in/jaden-isaac)
 - Email: [jadenisaacdev@gmail.com](mailto:jadenisaacdev@gmail.com)
