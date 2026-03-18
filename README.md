@@ -29,8 +29,10 @@ A modular feedforward neural network implemented from scratch in C++, featuring 
 ### [Fake News Classifier](https://github.com/jadenisaac2005/news-headline-classifier)
 An NLP pipeline that classifies news articles as real or fake using TF-IDF vectorization and Logistic Regression, trained on the WELFake dataset (72k articles). Achieved 95.76% accuracy by combining headline and full article text as features. Includes iterative model comparisons documenting the impact of feature engineering over model selection.
 
-### [Horizon — Full-Stack Banking Platform](https://github.com/jadenisaac2005/Horizon)
-A TypeScript-based full-stack application built with Next.js and Appwrite, focused on clean architecture, authentication flows, and component-driven design.
+### [Rockfall Prediction System](https://github.com/jadenisaac2005/rockfall-prediction)
+An AI-powered early warning system for rockfall incidents in open-pit mines, built for the **Smart India Hackathon (SIH)**. Uses an **XGBoost + Random Forest ensemble** with SMOTE oversampling to handle class imbalance, a derived interaction feature (`rainfall × slope angle`) for improved signal, and dynamic threshold tuning via F1-score search. Served via **FastAPI** with a **React** frontend for real-time risk monitoring.
+
+**Stack:** Python · XGBoost · RandomForest · SMOTE · FastAPI · React
 
 ---
 
