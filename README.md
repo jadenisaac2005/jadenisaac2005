@@ -20,7 +20,7 @@
 
 ## 🚀 Flagship Projects
 
-### [Neural Network from Scratch (NumPy)](https://github.com/jadenisaac2005/numpy-neural-network) *(coming soon)*
+### [Neural Network from Scratch (NumPy)](https://github.com/jadenisaac2005/nn-from-scratch) *(coming soon)*
 A feedforward neural network built from scratch using only NumPy — no frameworks. Covers dense layers, ReLU/Softmax activations, cross-entropy loss, manual backpropagation, and optimizers (SGD, Momentum, Adam) with Xavier/He initialization. Benchmarked on MNIST with a paired technical report on optimization dynamics.
 
 ### [Neural Network in C++](https://github.com/jadenisaac2005/cpp-neural-network)
