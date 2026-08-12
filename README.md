@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <em>Systems Engineer specializing in Artificial Intelligence & Machine Learning — architecting robust computational frameworks at the intersection of Autonomous Agents, Behavioral Psychology, and Digital Policy.</em>
+  <em>Systems Architect specializing in Artificial Intelligence & Machine Learning — architecting robust computational frameworks at the intersection of Autonomous Agents, Behavioral Psychology, and Digital Policy.</em>
 </div>
 
 ---
