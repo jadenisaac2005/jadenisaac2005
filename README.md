@@ -55,12 +55,6 @@ XGBoost + Random Forest ensemble predicting rockfall risk in open-pit mines, bui
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadenisaac2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenisaac2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadenisaac2005&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats"/>
 </div>
 
@@ -71,7 +65,6 @@ XGBoost + Random Forest ensemble predicting rockfall risk in open-pit mines, bui
 <div align="center">
   <img src="https://raw.githubusercontent.com/jadenisaac2005/jadenisaac2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
 ---
 
 ## 📚 Currently Building
