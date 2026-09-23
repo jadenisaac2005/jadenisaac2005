@@ -21,7 +21,7 @@
 ## 🚀 Flagship Projects
 
 ### [Neural Network from Scratch (NumPy)](https://github.com/jadenisaac2005/nn-from-scratch)
-Fully connected neural network built with NumPy only — no PyTorch, no TensorFlow. Hand-derived backpropagation, three optimizers (SGD, Momentum, Adam) compared on MNIST. **97.87% test accuracy**, with a written breakdown of why mini-batching mattered more than optimizer choice.
+Fully connected neural network built with NumPy only — no PyTorch, no TensorFlow. Hand-derived backpropagation, three optimizers (SGD, Momentum, Adam) compared on MNIST. **98.07% test accuracy**, with a written breakdown of why mini-batching mattered more than optimizer choice.
 
 ### [Neural Network in C++](https://github.com/jadenisaac2005/cpp-neural-network)
 Handwritten digit recognizer with backpropagation implemented from scratch in C++, compiled to WebAssembly, running live in the browser via an interactive canvas. [Live demo →](https://jadenisaac2005.github.io/cpp-neural-network/)
