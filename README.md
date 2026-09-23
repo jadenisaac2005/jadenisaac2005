@@ -69,7 +69,6 @@ XGBoost + Random Forest ensemble predicting rockfall risk in open-pit mines, bui
 
 ## 📚 Currently Building
 - A voice-note coach — speech-to-text + speaking metrics, aiming for a from-scratch CNN disfluency detector next
-- A privacy-first, client-side inference engine (WASM) for small language models
 
 ---
 
