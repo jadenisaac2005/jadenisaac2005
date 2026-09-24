@@ -30,7 +30,7 @@ Handwritten digit recognizer with backpropagation implemented from scratch in C+
 TF-IDF + Logistic Regression classifier trained on WELFake (72,134 articles). **95.22% accuracy** after removing 8,577 duplicate articles that had leaked across the train/test split — the naive split without dedup reads 95.76%.
 
 ### [Rockfall Prediction System](https://github.com/jadenisaac2005/rockfall-prediction)
-XGBoost risk classifier (SMOTE + StandardScaler) on a 100,000-row synthetic slope-stability dataset, built solo for Smart India Hackathon 2025. FastAPI backend, React dashboard, SMS alerting via Twilio on the highest risk tier.
+XGBoost risk classifier (SMOTE + StandardScaler) on a 100,000-row synthetic slope-stability dataset, built for Smart India Hackathon 2025. FastAPI backend, React dashboard, SMS alerting via Twilio on the highest risk tier.
 
 ---
 
