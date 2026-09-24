@@ -21,16 +21,16 @@
 ## 🚀 Flagship Projects
 
 ### [Neural Network from Scratch (NumPy)](https://github.com/jadenisaac2005/nn-from-scratch)
-Fully connected neural network built with NumPy only — no PyTorch, no TensorFlow. Hand-derived backpropagation, three optimizers (SGD, Momentum, Adam) compared on MNIST. **98.07% test accuracy**, with a written breakdown of why mini-batching mattered more than optimizer choice.
+Fully connected neural network built with NumPy only — no PyTorch, no TensorFlow. Hand-derived backpropagation, three optimizers compared on MNIST — SGD, classical Momentum, and Adam all converge to ~98% (**98.07% best**), but the real story is speed: Momentum and Adam hit 97% in 4 and 2 epochs vs. 26 for SGD.
 
 ### [Neural Network in C++](https://github.com/jadenisaac2005/cpp-neural-network)
 Handwritten digit recognizer with backpropagation implemented from scratch in C++, compiled to WebAssembly, running live in the browser via an interactive canvas. [Live demo →](https://jadenisaac2005.github.io/cpp-neural-network/)
 
 ### [Fake News Classifier](https://github.com/jadenisaac2005/news-headline-classifier)
-TF-IDF + Logistic Regression classifier trained on ~72K articles (WELFake dataset). **95.76% accuracy** — write-up covers why feature engineering (title+text vs. title-only) beat switching models.
+TF-IDF + Logistic Regression classifier trained on WELFake (72,134 articles). **95.22% accuracy** after removing 8,577 duplicate articles that had leaked across the train/test split — the naive split without dedup reads 95.76%.
 
 ### [Rockfall Prediction System](https://github.com/jadenisaac2005/rockfall-prediction)
-XGBoost + Random Forest ensemble predicting rockfall risk in open-pit mines, built for Smart India Hackathon. FastAPI backend, React dashboard, SMS alerting via Twilio, SMOTE for class imbalance.
+XGBoost risk classifier (SMOTE + StandardScaler) on a 100,000-row synthetic slope-stability dataset, built solo for Smart India Hackathon 2025. FastAPI backend, React dashboard, SMS alerting via Twilio on the highest risk tier.
 
 ---
 
@@ -65,6 +65,7 @@ XGBoost + Random Forest ensemble predicting rockfall risk in open-pit mines, bui
 <div align="center">
   <img src="https://raw.githubusercontent.com/jadenisaac2005/jadenisaac2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
 ---
 
 ## 📚 Currently Building
@@ -77,7 +78,7 @@ XGBoost + Random Forest ensemble predicting rockfall risk in open-pit mines, bui
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaden-isaac)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadenisaacdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jadenisaac10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jadenisaac2005)
 
 </div>
